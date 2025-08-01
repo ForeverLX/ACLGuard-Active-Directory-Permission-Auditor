@@ -11,6 +11,7 @@ Attackers exploit excessive AD privileges for lateral movement. ACLGuard help de
 - **Threat Hunting:** Identify ACL backdoors left by attackers  
 - **IR Triage:** Spot high-risk permissions during breaches  
 - **SIEM Integration:** Export findings to GreyMatter/Splunk
+
 **Status:** 
 In development for DEFCON 33! 
 Code drops August 7-10

@@ -7,6 +7,10 @@ Attackers exploit excessive AD privileges for lateral movement. ACLGuard help de
 - WriteDACL misconfigurations
 - Other high-risk permissions
 
+## Use Cases for Security Teams  
+- **Threat Hunting:** Identify ACL backdoors left by attackers  
+- **IR Triage:** Spot high-risk permissions during breaches  
+- **SIEM Integration:** Export findings to GreyMatter/Splunk
 **Status:** 
 In development for DEFCON 33! 
 Code drops August 7-10

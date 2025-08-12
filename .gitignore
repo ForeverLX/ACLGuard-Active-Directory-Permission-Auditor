@@ -1,0 +1,17 @@
+# Ignore build files and temporary data
+# Compiled files
+*.o
+ACLGuard
+*.exe
+
+# Data files
+*.csv
+*.log
+
+# IDE files
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+
